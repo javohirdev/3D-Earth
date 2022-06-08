@@ -1,3 +1,3 @@
 ## Demo:
 
-https://3d-earth.netlify.app/
+https://earth-3d.netlify.app/
